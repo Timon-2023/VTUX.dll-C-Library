@@ -1,5 +1,5 @@
 # VTUX.dll-C-Library
-Library Name: VTUXlib.dll
+#Library Name: VTUXlib.dll
 Actual Version: v1.0.0-beta
 ==========================================
 Description:
